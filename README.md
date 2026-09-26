@@ -83,7 +83,7 @@ Open the local development URL shown in your terminal.
 
 ## 📸 Preview
 
-*Add a screenshot or GIF of the game here.*
+![alt text](image.png)
 
 ## 🔮 Future Improvements
 
