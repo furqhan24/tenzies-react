@@ -4,6 +4,8 @@ A fun and interactive **Tenzies dice game** built with **React and Vite**.
 
 The objective is simple: **roll until all 10 dice show the same number**. Players can hold individual dice between rolls to strategically work toward a winning combination.
 
+### 🔗 [Live Demo](https://YOUR-USERNAME.github.io/tenzies-react/) | 📂 [Source Code](https://github.com/YOUR-USERNAME/tenzies-react)
+
 ## ✨ Features
 
 * 🎲 Roll 10 dice at once
